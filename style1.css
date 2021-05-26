@@ -1,0 +1,45 @@
+body{
+	font-family: arial;
+}
+h2{
+	color: blue;
+	font-size: 17px;
+	text-align: center;
+}
+table{
+	border-collapse: collapse;
+	margin: auto;
+}
+th{
+	background-color: #008001;
+	color: white;
+	border: 1px #008001 solid;
+	height: 42px;
+}
+.red{
+	color: red;
+}
+tr, td{
+	border: 1px gray solid;
+	border-collapse: collapse;
+	text-align: center;
+}
+td{
+	height: 32px;
+}
+.kq{
+	text-align: left;
+	padding-left: 4px;
+}
+#cot1{
+	width: 78px;
+}
+#cot2, #cot4{
+	width: 290px;
+}
+#cot3{
+	width: 64px;
+}
+#hang2{
+	height: 49px;
+}
